@@ -1,0 +1,13 @@
+# Local computer inspection reports
+/C盘空间检查报告.json
+/C盘用户空间检查报告.json
+/C盘清理建议.txt
+/c_drive_audit.py
+
+# Temporary test and build outputs; distributed game executables are retained.
+**/snake_test.exe
+**/tank_test.exe
+**/preview-*.bmp
+**/preview-*.png
+*.o
+*.obj
